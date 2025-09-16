@@ -1,5 +1,5 @@
 :root {
-  --lightgreen:#dbf5d3; --darkgreen:#3f6932; --blue:#002d72;
+  --lightgreen:#aebc9d; --darkgreen:#8e9a75; --cream:#ecede1;
 }
 body { font-family: system-ui, sans-serif; margin:0; background:var(--lightgreen); color:#fff; }
 header { background:var(--darkgreen); color:#fff; padding:1rem; }
